@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![San Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeginventor&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeginventor&layout=compact&theme=tokyonight)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aeginventor)](https://solved.ac/aeginventor)
+
 <!--
 **aeginventor/aeginventor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
